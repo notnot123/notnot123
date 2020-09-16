@@ -1,6 +1,8 @@
-
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (anurak suriwongna)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
-
-<!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h3>Coming Soon🤘🏻🔥</h3>
+  <p align="center">
+    <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
+    <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
+    <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">LinkedIn</a> •
+    <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
+  </p>
